@@ -1,5 +1,43 @@
 <resources>
     <string name="app_name">CarShare</string>
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="register_fragment_label">Register Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_account_information">Account information:</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_conf_password">Confirm password</string>
+    <string name="hint_tax_number">Tax number</string>
+    <string name="hint_personal_number">Personal number</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_paragraph_login">Welcome to CarSharing.\nLog in to use our services.</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_register">Register now!</string>
+    <string name="tv_welcome">Welcome</string>
+    <string name="btn_map">Map</string>
+    <string name="registration_paragraph">Fill out all fields to complete registration.</string>
+    <string name="tv_zip_city">ZipCity</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_brand_model">Brand Model</string>
+    <string name="tv_registration">LJ-XXX-YY</string>
+    <string name="tv_day_price">0.12 €/min, 0.30 €/km</string>
+    <string name="tv_night_price">0.02 €/min, 0.30 €/km</string>
+    <string name="reserve_a_car">Reserve a car</string>
+    <string name="carname">CarName</string>
+    <string name="stationname">StationName</string>
+    <string name="stationaddress">StationAddress</string>
+    <string name="date">Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="reserve">Reserve</string>
 </resources>
